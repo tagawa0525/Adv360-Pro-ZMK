@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"KP_N00"
+		],
+		"description": "KP_N00",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
